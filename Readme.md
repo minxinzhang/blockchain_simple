@@ -1,4 +1,5 @@
 ***IMPORT NOTE: The following section is for Mac OSX terminal users(zsh) only***
+
 How to conveniently run a new terminal tab for a node:
 1. go to the directory containing `COMP3221_A1_Routing.py`
 2. invoke the shell script `startANodeScript.zsh`
