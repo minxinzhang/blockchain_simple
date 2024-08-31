@@ -12,6 +12,7 @@ The node name is case sensitive. Please remember to use upper cases.
 Per the spec, only ten node names are handled. (A-J)
 
 ***For non-MacOS users***
+
 Please manually open a new terminal and run commands like
 `COMP3221_A1_Routing.py A 6000 Aconfig.txt`. Note that
 the commands are case sensitive and the port numbers should
@@ -19,13 +20,16 @@ be consistent with the node names.Otherwise the program would
 discard those config lines conflicting against the node-port mapping.
 
 ***To disconnect a node***
+
 CLI: type `D` and hit ENTER
 or
 `kill -9 <pid>` <pid> is shown at the very beginning after launching a node
 
 ***stop all nodes***
+
 `killall Python`
 
 ***modify edge costs***
+
 Not implemented thus not supported.
 
