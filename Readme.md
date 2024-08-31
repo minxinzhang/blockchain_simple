@@ -1,3 +1,6 @@
+# 个人课程项目介绍
+旨在复刻Bellman-Ford算法。多线程模拟各个路由器节点，采用本地ip地址，每一个节点有自己对应的端口。数据并发通过线程共享内存来解决同步问题。具体报告请参考`Report.pdf`。
+
 ***IMPORT NOTE: The following section is for Mac OSX terminal users(zsh) only***
 
 How to conveniently run a new terminal tab for a node:
